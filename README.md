@@ -7,3 +7,4 @@ En este repositorio se va a ir guardando las distintas versiones del juego cuya 
  - Andrea
  - Samuel
 
+## Semana del 13 de enero
