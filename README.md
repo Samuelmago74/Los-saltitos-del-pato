@@ -1,6 +1,5 @@
 # Los-saltitos-del-pato
-En este repositorio se van a ir guardando las distintas versiones del juego cuya mecánica es un personaje que tiene que ir saltando plataformas para superar distintos enemigos 
- y así, alcanzar la bandera.
+En este repositorio se van a ir guardando las distintas versiones del juego cuya mecánica es un personaje que tiene que ir saltando plataformas para superar distintos enemigos y así, alcanzar la bandera.
 
 ## Miembros del equipo
 
