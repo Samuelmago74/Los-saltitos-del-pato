@@ -16,3 +16,6 @@ En este repositorio se van a ir guardando las distintas versiones del juego cuya
 
  ## Semana del 27 de enero
  Terminamos el nivel 2 
+
+ ## Video de referencia
+ https://www.youtube.com/watch?v=QWLeU7xyuPI
