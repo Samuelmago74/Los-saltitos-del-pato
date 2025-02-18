@@ -1,11 +1,20 @@
 # Los-saltitos-del-pato
 En este repositorio se van a ir guardando las distintas versiones del juego cuya mecánica es un personaje que tiene que ir saltando plataformas para superar distintos enemigos y así, alcanzar la bandera.
 
-## Miembros del equipo
+## Nombre del equipo
+"Las Güerticas"
 
- - Blanca
- - Andrea
- - Samuel
+## Miembros del equipo
+ - Blanca: VCampanera
+ - Andrea: andreablascoooo
+ - Samuel: Samuelmago74
+
+## Instrucciones del juego 
+-Controles: 
+Espacio: salta
+Fecha derecha: movimiento hacia la derecha
+Fecha izquierda: movimiento hacia la izquierda
+-Enlace juego: 
 
 ## Semana del 13 de enero
  Terminamos el nivel 1 
