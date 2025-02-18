@@ -11,10 +11,11 @@ En este repositorio se van a ir guardando las distintas versiones del juego cuya
 
 ## Instrucciones del juego 
 -Controles: 
--Espacio: salta
--Fecha derecha: movimiento hacia la derecha
--Fecha izquierda: movimiento hacia la izquierda
--Enlace juego: 
+
+Espacio: salta
+Fecha derecha: movimiento hacia la derecha
+Fecha izquierda: movimiento hacia la izquierda
+Enlace juego: 
 
 ## Semana del 13 de enero
  Terminamos el nivel 1 
