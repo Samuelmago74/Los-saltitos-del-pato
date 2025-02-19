@@ -14,7 +14,7 @@ En este repositorio se van a ir guardando las distintas versiones del juego cuya
 Espacio: salto,
 Fecha derecha: movimiento hacia la derecha,
 Fecha izquierda: movimiento hacia la izquierda,
-Enlace juego: [](https://github.com/Samuelmago74/Los-saltitos-del-pato/blob/main/Los%20saltitos%20del%20pato%20(3).sb3)
+Enlace juego: (https://drive.google.com/file/d/1RiJghP9WzOLabDvOA_MUGlGBzSaFReqg/view?usp=sharing)
 
 ## Semana del 13 de enero
  Terminamos el nivel 1 
