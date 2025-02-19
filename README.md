@@ -27,3 +27,6 @@ Enlace juego: [](https://github.com/Samuelmago74/Los-saltitos-del-pato/blob/main
 
  ## Video de referencia
  https://www.youtube.com/watch?v=QWLeU7xyuPI
+
+ ## Material empleado
+ https://drive.google.com/drive/folders/1RgUJJhDBZHK_N_Njcm6FpuSmF1GTb2bd?usp=share_link
